@@ -1,0 +1,6 @@
+S = TT | AB | #
+T = XT | TX | #
+U = AB | #
+A = XU
+B = XX
+X = 0

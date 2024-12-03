@@ -1,0 +1,16 @@
+S = LU | LV | MK | PR | IW | JX | KT | BR | IY | JZ | KL | a | b | # | epsilon
+U = PR | IW | JX | KT | a | b | #
+V = BR | IY | JZ | KL | #
+P = IW | JX | a | b
+W = PI | a
+X = PJ | b
+B = IY | JZ | KL | #
+Y = BI
+Z = BJ
+R = KT | #
+T = KT | TI | TJ | # | a | b
+L = MK | #
+M = MK | IM | JM | # | a | b
+I = a
+J = b
+K = #

@@ -1,0 +1,5 @@
+S = AX | ZZ | epsilon
+Z = AX | ZZ
+X = SB | )
+A = (
+B = )

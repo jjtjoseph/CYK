@@ -1,0 +1,12 @@
+S = DC | AF | epsilon
+G = AF
+L = GB | b
+Z = CZ | c
+F = LZ | GB | b
+R = DC
+M = BR | b
+X = AX | a
+D = XM | BR | b
+A = a
+B = b
+C = c
